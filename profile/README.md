@@ -1,14 +1,12 @@
 # Clone Microsoft
 
-## Welcome to Clone Microsoft Organization
+Clone Microsoft is an educational pourpose dedicated to teaching and learning about software development, reverse engineering of Microsoft technologies.
 
-![Legal and Ethical Software Learning](https://www.example.com/your-image-url.png)
-
-Clone Microsoft is an educational organization dedicated to teaching and learning about software development, reverse engineering, and ethical hacking in the context of Microsoft technologies. We focus on promoting ethical practices and providing educational resources for those interested in understanding software internals for learning and research purposes.
+We focus in understanding software internals for learning and research purposes.
 
 ## Our Goals
 
-- To educate and promote ethical and legal software reverse engineering practices.
+- To educate legal software reverse engineering practices.
 - To explore Microsoft technologies, understand their inner workings, and share insights with the community.
 - To collaborate on projects that enhance knowledge and contribute to the field of software development and security.
 
